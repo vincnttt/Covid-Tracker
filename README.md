@@ -1,11 +1,11 @@
 # COVID-19 Tracker APP
-新型冠状病毒肺炎实施播报APP，数据由于163提供的API接口.
+Flutter新型冠状病毒肺炎实时播报APP，数据由于163提供的API接口.
 
 > [163提供的接口地址](https://c.m.163.com/ug/api/wuhan/app/data/list-total)
 
 >[官方展示](https://news.163.com/special/epidemic)
 
-## 测试
+## 测试环境
 > Flutter (Channel dev, v1.14.6, on Microsoft Windows [Version 10.0.18363.1256], locale en-US),
 Dart version 2.8.0
 
